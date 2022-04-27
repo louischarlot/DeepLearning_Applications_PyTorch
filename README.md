@@ -1,6 +1,6 @@
-# Deep Learning projects on PyTorch
+# Deep Learning applications on PyTorch
 
-This repository contains several Deep Learning personal projects using different methods to solve diverse problems...
+This repository contains some Deep Learning personal applications, using different methods (CNN, GAN, RNN), to solve diverse problems...
 
 ## Table Of Contents
 
