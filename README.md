@@ -6,6 +6,10 @@ This repository contains some Deep Learning personal applications, using differe
 
 ### Convolutional Neural Networks (CNN)
 
+* [Image classification](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/convolutional-neural-networks): We build our own CNN to classify images from the XXX dataset.
+
+* [Transfer learning](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/convolutional-neural-networks): We solve the previous image classification problem using, this time, the **XXXnet** pre-trained network.
+
 * [Face recognition](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/convolutional-neural-networks): Application of CNN to a face recognition problem. We use here the **XXXnet** pre-trained network.
 
 
