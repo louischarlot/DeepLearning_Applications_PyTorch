@@ -1,4 +1,4 @@
-# Deep Learning projects
+# Deep Learning projects on PyTorch
 
 This repository contains several Deep Learning personal projects using different methods to solve diverse problems...
 
