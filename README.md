@@ -1,6 +1,6 @@
-# Deep Learning personal projects
+# Deep Learning projects
 
-This repository contains several Deep Learning personal projects...
+This repository contains several Deep Learning personal projects using different methods to solve diverse problems...
 
 ## Table Of Contents
 
