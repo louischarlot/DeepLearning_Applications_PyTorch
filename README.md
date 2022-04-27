@@ -20,3 +20,6 @@ This repository contains some Deep Learning personal applications, using differe
 * [Intro to Recurrent Networks (Time series & Character-level RNN)](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks): Recurrent neural networks are able to use information about the sequence of data, such as the sequence of characters in text; learn how to implement these in PyTorch for a variety of tasks.
 
 
+### Transformers
+
+* [LSTM](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/recurrent-neural-networks): [QUORA!](https://www.quora.com/What-is-a-transformer-in-deep-learning)
