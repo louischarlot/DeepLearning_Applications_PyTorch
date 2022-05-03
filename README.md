@@ -10,7 +10,6 @@ This repository contains some Deep Learning personal applications, using differe
     * In a [first notebook](https://github.com/louischarlot/DeepLearning_Applications_PyTorch/blob/main/CNN/Image_classification_transfer.ipynb), we use **transfer learning** from a pre-trained Residual Neuronal Network (**ResNet**) to classify images from the XXX dataset.
     * In a [second notebook](https://github.com/louischarlot/DeepLearning_Applications_PyTorch/blob/main/CNN/Image_classification_implemented.ipynb), we **implement** and train a **ResNet** from scratch, given that the pre-trained ResNet is not adapted to the small images of the CIFAR10 datset we want to classify.
 
-We implement and train a  to classify the images from the CIFAR10 dataset.
 
 * [Face recognition](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/convolutional-neural-networks): Application of CNN to a face recognition problem. We use here the **XXXnet** pre-trained network.
 
