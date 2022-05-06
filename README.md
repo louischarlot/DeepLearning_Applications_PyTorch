@@ -8,7 +8,7 @@ This repository contains some Deep Learning personal applications, using differe
 
 * **Image classification**: 
     * In a [first notebook](https://github.com/louischarlot/DeepLearning_Applications_PyTorch/blob/main/CNN/Image_classification_transfer.ipynb), we use **transfer learning** from a pre-trained Residual Neuronal Network (**ResNet**) to classify images from the STL10 dataset.
-We obtain a **94.9%** accuracy.
+We obtain a **94.9%** prediction accuracy.
     * In a [second notebook](https://github.com/louischarlot/DeepLearning_Applications_PyTorch/blob/main/CNN/Image_classification_implemented.ipynb), we **implement** and train a **ResNet** from scratch, given that the previous pre-trained ResNet is not adapted to the small images of the CIFAR10 datset we want to classify.
 
 
