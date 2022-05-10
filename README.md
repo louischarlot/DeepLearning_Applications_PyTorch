@@ -29,4 +29,4 @@ We obtain a **94.9%** prediction accuracy (over the 10 classes).
 
 ### Transformers
 
-* **LSTM**: [QUORA!](https://www.quora.com/What-is-a-transformer-in-deep-learning)
+* **LSTM**: To be done... [vulgarisation](https://www.quora.com/What-is-a-transformer-in-deep-learning)
