@@ -17,14 +17,15 @@ We obtain a **94.9%** prediction accuracy (over the 10 classes).
 * **Face recognition**: To be done... (FaceNet)
 
 
+### Recurrent Neural Networks (RNN)
+
+* 
+
+
 ### Generative Adversarial Networks (GAN)
 
 * 
 
-
-### Recurrent Neural Networks (RNN)
-
-* 
 
 
 ### Transformers
