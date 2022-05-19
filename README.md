@@ -19,15 +19,8 @@ We obtain a **94.9%** prediction accuracy (**over the 10 classes**).
 
 ### Recurrent Neural Networks (RNN)
 
-* 
+* **Embedding**: To be done...
 
-
-### Generative Adversarial Networks (GAN)
-
-* 
-
-
-
-### Transformers
+* **Attention networks**: To be done...
 
 * **LSTM**: To be done... (look at saved biblio)
