@@ -23,4 +23,4 @@ We obtain a **94.9%** prediction accuracy (**over the 10 classes**).
 
 * **Attention networks**: To be done...
 
-* **LSTM**: To be done... (look at saved biblio)
+* **LSTM**: To be done... (biblio)
