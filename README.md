@@ -14,7 +14,7 @@ We obtain a **94.9%** prediction accuracy (**over the 10 classes**).
 
 * **Image segmentation**: To be done... (U-Net)
 
-* **Face recognition**: To be done... (FaceNet)
+* **Face recognition**: To be done... (FaceNet, DeepFace)
 
 
 ### Recurrent Neural Networks (RNN)
