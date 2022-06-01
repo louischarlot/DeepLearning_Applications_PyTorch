@@ -30,3 +30,7 @@ We obtain a **94.9%** prediction accuracy (**over the 10 classes**).
 * **Attention networks**: To be done...
 
 * **Transformer networks**: To be done... 
+
+
+
+## Some bibliography
