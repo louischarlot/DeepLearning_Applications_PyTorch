@@ -15,3 +15,5 @@ bokeh
 pickleshare
 torch
 torchvision
+torchtext
+torchdata
