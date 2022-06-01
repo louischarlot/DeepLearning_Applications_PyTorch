@@ -22,14 +22,13 @@ We obtain a **94.9%** prediction accuracy (**over the 10 classes**).
 
 ### Recurrent Neural Networks (RNN)
 
-* **Word Embeddings**: To be done **now**...
-
 * **Sentiment analysis**: To be done **now**...
 
 
 * **Attention networks**: To be done...
 
 * **Transformer networks**: To be done... 
+
 
 
 
