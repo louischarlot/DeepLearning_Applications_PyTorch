@@ -15,9 +15,9 @@ We obtain a **94.9%** prediction accuracy (**over the 10 classes**).
 <img src="images/cifar10_stl10.png" width=100%>
 
 
-* **Image segmentation**: To be done... (U-Net)
+* **Image segmentation**: Coming soon. (U-Net)
 
-* **Face recognition**: To be done... (FaceNet, DeepFace)
+* **Face recognition**: Coming soon. (FaceNet, DeepFace)
 
 
 ### Recurrent Neural Networks (RNN)
@@ -25,11 +25,13 @@ We obtain a **94.9%** prediction accuracy (**over the 10 classes**).
 * **Sentiment analysis**: We implement a sentiment analysis to associate stars (from 1 to 5) to the reviews of the **YelpReviewFull** dataset. In this analysis, **we use only 20% of the reviews** to train and test the model: this amounts already to 140,000 reviews! ...
 
 
-* **Attention networks**: To be done...
+* **Attention networks**: Coming soon.
 
-* **Transformer networks**: To be done... 
+* **Transformer networks**: Coming soon. 
 
 
 
 
 ## Some bibliography
+
+To be completed: 2 books, jupyter notebooks, courses...
