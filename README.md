@@ -22,7 +22,9 @@ We obtain a **94.9%** prediction accuracy (**over the 10 classes**).
 
 ### Recurrent Neural Networks (RNN)
 
-* **Sentiment analysis**: We implement a sentiment analysis to associate stars (from 1 to 5) to the reviews of the **YelpReviewFull** dataset. In this analysis, **we use only 20% of the reviews** to train and test the model: this amounts already to 140,000 reviews! ...
+* **Sentiment analysis**: In this notebook, we implement a **sentiment analysis** to predict whether the reviews of the [YelpReviewFull dataset](https://pytorch.org/text/stable/datasets.html#yelpreviewfull) are **good**, **neutral**, or **bad**. Our RNN, composed of 2 layers ([Embedding](https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html) and [LSTM](https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html?highlight=lstm#torch.nn.LSTM)), gives a  **80% test accuracy**.
+<br> An additional test,  **on two personal reviews** (one **positive** and one **negative**) that we write on our own, gives the convincing results of the following Figure:
+<img src="images/cifar10_stl10.png" width=100%>
 
 
 * **Attention networks**: Coming soon.
