@@ -15,9 +15,9 @@ We obtain a **94.9%** prediction accuracy (**over the 10 classes**).
 <img src="images/cifar10_stl10.png" width=100%>
 
 
-* **Image segmentation**: Coming soon. (U-Net)
+* **Image segmentation**: Work in progress. (U-Net)
 
-* **Face recognition**: Coming soon. (FaceNet, DeepFace)
+* **Face recognition**: Work in progress. (FaceNet, DeepFace)
 
 
 ### Recurrent Neural Networks (RNN)
@@ -27,9 +27,9 @@ We obtain a **94.9%** prediction accuracy (**over the 10 classes**).
 <img src="images/my_reviews.png" width=100%>
 
 
-* **Attention networks**: Coming soon.
+* **Attention networks**: Work in progress.
 
-* **Transformer networks**: Coming soon. 
+* **Transformer networks**: Work in progress. 
 
 
 
