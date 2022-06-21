@@ -37,3 +37,4 @@ We obtain a **94.9%** prediction accuracy (**over the 10 classes**).
 ## Some bibliography
 
 To be completed: 2 books, jupyter notebooks, courses...
+
