@@ -36,7 +36,7 @@ We obtain a **94.9%** prediction accuracy (**over the 10 classes**).
 
 ## Some recommended bibliography
 
-- Heaton, J. (2018). Ian goodfellow, yoshua bengio, and aaron courville: [Deep learning](https://link.springer.com/article/10.1007/s10710-017-9314-z).
+- Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep learning](https://mitpress.mit.edu/books/deep-learning). MIT press.
 
 - The [CS230 Deep Learning class](https://cs230.stanford.edu/) by Andrew Ng and Kian Katanforoosh.
 
