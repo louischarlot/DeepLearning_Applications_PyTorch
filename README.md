@@ -34,7 +34,16 @@ We obtain a **94.9%** prediction accuracy (**over the 10 classes**).
 
 
 
-## Some bibliography
+## Some recommended bibliography
 
-To be completed: 2 books, jupyter notebooks, courses...
+- Heaton, J. (2018). Ian goodfellow, yoshua bengio, and aaron courville: [Deep learning](https://link.springer.com/article/10.1007/s10710-017-9314-z).
+
+- The [CS230 Deep Learning class](https://cs230.stanford.edu/) by Andrew Ng and Kian Katanforoosh.
+
+- [Udacity](https://github.com/udacity/deep-learning-v2-pytorch) very interesting examples on PyTorch.
+
+- [PyTorch official website](https://pytorch.org/), that contains a lot of useful explanations about PyTorch functions.
+
+
+
 
